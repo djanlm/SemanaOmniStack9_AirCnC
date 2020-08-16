@@ -79,19 +79,19 @@ var sharedBlacklist = [
 
 Login Page:
 
-You only need to insert any github user name in order to signin and a new user will be created.
-![login](https://github.com/djanlm/SemanaOmniStack8_TINDEV/blob/master/tindev_login_page.png?raw=true)
+You only need to insert an email in order to signin and a new session will be created.
+![login](https://github.com/djanlm/SemanaOmniStack9_AirCnC/blob/master/login_webpng.png?raw=true)
 
-In the main page you can see all the developers that already joined the application. You're able to like or dislike according to your interest.
-![main](https://github.com/djanlm/SemanaOmniStack8_TINDEV/blob/master/tindev_page.png?raw=true)
+In the main page you can see the list of places that you have registered.
+![main](https://github.com/djanlm/SemanaOmniStack9_AirCnC/blob/master/Lista_de_locais.png?raw=true)
 
-If you like someone that already have liked you, You receive a matching alert.
-![match](https://github.com/djanlm/SemanaOmniStack8_TINDEV/blob/master/match_page_tindev.png?raw=true)
+In the register page you are able to save a new spot with a picture of the place, its name, technologies the company uses and the price of the rent per day.
+![register](https://github.com/djanlm/SemanaOmniStack9_AirCnC/blob/master/cadastro_de_empresa.png?raw=true)
 
 
 #### Mobile App
 
-![login mobile](https://github.com/djanlm/SemanaOmniStack8_TINDEV/blob/master/login_mobile_page.png?raw=true)
+![login mobile]https://github.com/djanlm/SemanaOmniStack9_AirCnC/blob/master/login_mobile.jpg?raw=true)
 
 ![main page mobile](https://github.com/djanlm/SemanaOmniStack8_TINDEV/blob/master/tidev_mobile_page.png?raw=true)
 
