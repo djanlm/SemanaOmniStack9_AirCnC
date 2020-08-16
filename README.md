@@ -73,3 +73,27 @@ var sharedBlacklist = [
   /.*\/__tests__\/.*/
 ];
 ```
+## Preview and Usage
+
+#### Web
+
+Login Page:
+
+You only need to insert any github user name in order to signin and a new user will be created.
+![login](https://github.com/djanlm/SemanaOmniStack8_TINDEV/blob/master/tindev_login_page.png?raw=true)
+
+In the main page you can see all the developers that already joined the application. You're able to like or dislike according to your interest.
+![main](https://github.com/djanlm/SemanaOmniStack8_TINDEV/blob/master/tindev_page.png?raw=true)
+
+If you like someone that already have liked you, You receive a matching alert.
+![match](https://github.com/djanlm/SemanaOmniStack8_TINDEV/blob/master/match_page_tindev.png?raw=true)
+
+
+#### Mobile App
+
+![login mobile](https://github.com/djanlm/SemanaOmniStack8_TINDEV/blob/master/login_mobile_page.png?raw=true)
+
+![main page mobile](https://github.com/djanlm/SemanaOmniStack8_TINDEV/blob/master/tidev_mobile_page.png?raw=true)
+
+
+Hope you enjoy it. :heart_eyes:
