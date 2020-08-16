@@ -91,9 +91,16 @@ In the register page you are able to save a new spot with a picture of the place
 
 #### Mobile App
 
-![login mobile]https://github.com/djanlm/SemanaOmniStack9_AirCnC/blob/master/login_mobile.jpg?raw=true)
+In the login page you can write which technologies you work with
+<img src="https://github.com/djanlm/SemanaOmniStack9_AirCnC/blob/master/login_mobile.jpg" width="200">
 
-![main page mobile](https://github.com/djanlm/SemanaOmniStack8_TINDEV/blob/master/tidev_mobile_page.png?raw=true)
+In the main page you gonna see all places that works with the same technologies you chose
+<img src="https://github.com/djanlm/SemanaOmniStack9_AirCnC/blob/master/lista_mobile.jpg?raw=true" width="200">
+
+In the reservation page you can pick one date and confirm. 
+<img src="https://github.com/djanlm/SemanaOmniStack9_AirCnC/blob/master/reservation_mobile.jpg?raw=true" width="200">
+
+
 
 
 Hope you enjoy it. :heart_eyes:
